@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
     'Qual e o maior animal do mundo?',
-    'O maior ja estudado é a baleia azul'
+    'O maior de todos os tempos é a baleia azul'
 )
 
 criaCartao(
